@@ -1,0 +1,10 @@
+^C:\USERS\TIENYU\DESKTOP\OPENCV_DEMO\OPENCV_JUDGE_IMAGE_TRAINDATA\BUILD\CMAKEFILES\CC49E94E4DA0D7E6783680DB74A1991E\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/TienYu/Desktop/OpenCV_demo/opencv_judge_image_trainData -BC:/Users/TienYu/Desktop/OpenCV_demo/opencv_judge_image_trainData/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/TienYu/Desktop/OpenCV_demo/opencv_judge_image_trainData/build/opencv_judge_image_trainData.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

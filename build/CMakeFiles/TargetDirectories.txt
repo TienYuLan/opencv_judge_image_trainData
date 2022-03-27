@@ -1,0 +1,9 @@
+C:/Users/TienYu/Desktop/OpenCV_demo/opencv_judge_image_trainData/build/CMakeFiles/NightlyMemoryCheck.dir
+C:/Users/TienYu/Desktop/OpenCV_demo/opencv_judge_image_trainData/build/CMakeFiles/Experimental.dir
+C:/Users/TienYu/Desktop/OpenCV_demo/opencv_judge_image_trainData/build/CMakeFiles/Continuous.dir
+C:/Users/TienYu/Desktop/OpenCV_demo/opencv_judge_image_trainData/build/CMakeFiles/Nightly.dir
+C:/Users/TienYu/Desktop/OpenCV_demo/opencv_judge_image_trainData/build/CMakeFiles/PACKAGE.dir
+C:/Users/TienYu/Desktop/OpenCV_demo/opencv_judge_image_trainData/build/CMakeFiles/opencv_judge_image_trainData.dir
+C:/Users/TienYu/Desktop/OpenCV_demo/opencv_judge_image_trainData/build/CMakeFiles/RUN_TESTS.dir
+C:/Users/TienYu/Desktop/OpenCV_demo/opencv_judge_image_trainData/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/TienYu/Desktop/OpenCV_demo/opencv_judge_image_trainData/build/CMakeFiles/ZERO_CHECK.dir
